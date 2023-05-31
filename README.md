@@ -1,5 +1,5 @@
 # bjork-album-generator
-This is a simply Flask application that generates Bjorkesque album titles using Chat GPT's API and text-davinci-003 engine.
+This is a simple Flask web application that generates "Bjorkesque" album titles using Chat GPT's API and the text-davinci-003 engine.
 
 How to use:
 - This project is served locally on local host 5000 by default.
